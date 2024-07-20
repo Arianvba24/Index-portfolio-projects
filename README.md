@@ -51,6 +51,9 @@ https://github.com/Arianvba24/streamlit_todo_crud_app
 -Delete all the emails that contain the input word
 (pending)
 
+-Moving emails to another folder
+(pending)
+
 -Extract all the subjects and received time of all the emails in inbox
 (pending)
 
