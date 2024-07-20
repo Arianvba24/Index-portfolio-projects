@@ -7,5 +7,6 @@ In this repositorie what you will find is an index with all my projects in Pytho
 Feel free to checkout whatever you want!
 
 Python
+
 -Logitic web application
 https://github.com/Arianvba24/logistic_app
