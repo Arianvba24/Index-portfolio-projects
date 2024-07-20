@@ -2,11 +2,12 @@
 
 Hi everyone!
 
-In this repositorie what you will find is an index with all my projects in Python, VBA(Excel,Outlook or Word) and Power BI.
+In this repositorie what you will find is an index with all my projects in **Python, VBA(Excel,Outlook or Word)** and **Power BI.**
 
 Feel free to checkout whatever you want!
 
-Python
+# Python
+## Streamlit web applications
 
 -Logistic web application
 https://github.com/Arianvba24/logistic_app
@@ -16,25 +17,26 @@ https://github.com/Arianvba24/Dashboard-deaths-Colombia
 
 -To-do tasks web application
 https://github.com/Arianvba24/streamlit_todo_crud_app
-
--Data analysys of Airbnb Madrid rentings 2021-Abril 2022
+## Data analysis
+-Data analysis of Airbnb Madrid rentings 2021-Abril 2022
 (pending)
 
--Data analysys of Number of domestic violence murders Colombia 2010-2023
+-Data analysis of Number of domestic violence murders Colombia 2010-2023
 (pending)
 
--Data analysys of Palestinian conflict
+-Data analysis of Palestinian conflict
 (pending)
 
--Data analysys of Real_Estate_Sales_2001-2020_GL
+-Data analysis of Real_Estate_Sales_2001-2020_GL
 (pending)
 
--Data analysys of Airbnb Madrid rentings 2021-Abril 2022
+-Data analysis of Airbnb Madrid rentings 2021-Abril 2022
 (pending)
-
+## Excel
 -Extracting cells colours from multiple files in excel
 (pending)
 
+## Monitoring and operative system manipulation
 -Deleting ONLY the files that are no longer available for the company
 (pending)
 
@@ -47,6 +49,7 @@ https://github.com/Arianvba24/streamlit_todo_crud_app
 -Rename files that start with the same id in excel file
 (pending)
 
+## Outlook
 -Delete all the emails that contain the input word
 (pending)
 
@@ -56,19 +59,21 @@ https://github.com/Arianvba24/streamlit_todo_crud_app
 -Extract all the subjects, received time and attachments of emails and export to excel
 (pending)
 
+## Pattern-Matching
 -Extracting adjectives, verbs and substantives from pdf file text
 (pending)
 
 -Extracting and organizing non-structured data from text file
 (pending)
 
+## PDF(merging,splitting,editing,data extraction)
 -Extract misorganized and unstructured data from multiple pdf files
 (pending)
 
--Extracting all tables from pdf files.ipynb 
+-Extracting all tables from pdf files
 (pending)
 
--Extracting images from pdf files.ipynb 
+-Extracting images from pdf files
 (pending)
 
 -Inserting text in pdf files
@@ -80,9 +85,62 @@ https://github.com/Arianvba24/streamlit_todo_crud_app
 -Splitting pdf in multiple pdf files
 (pending)
 
-re
--Extracting all the dates of a text.ipynb
+## Algorithms(implementing algorithms with re)
+-Extracting all the dates of a text
 (pending)
+
+## SQL
+-Deleting rows.ipynb 
+(pending)
+
+-Extracting data from the database
+(pending)
+
+-Migrating excel data to a sql database
+(pending)
+
+## Web scrapping
+-DIA
+(pending)
+
+-Walmart
+(pending)
+
+-Adidas
+(pending)
+
+-Veritas
+(pending)
+
+# Excel
+## Web scrapping
+-Software + web scrapping real state marketplace
+(pending)
+## Outlook(and add-in)
+-Highlight words regarding whether or not they are in excel file
+(pending)
+## Dashboard
+-Dashboard from multiservices company
+(pending)
+
+
+## Word
+-Replacing words by others in multiple files
+(pending)
+
+-Sending multiple excel files data
+(pending)
+# Power BI
+-Domestic violence deaths of Colombia
+(pending)
+
+-Traffic accidents in USA(New York) from 2012 to 2024
+(pending)
+
+-Amount of crimes in USA(Chicago) from 2001 to beginning of 2024
+(pending)
+
+
 
 
 
