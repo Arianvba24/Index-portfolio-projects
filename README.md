@@ -30,8 +30,6 @@ https://github.com/Arianvba24/streamlit_todo_crud_app
 -Data analysis of Real_Estate_Sales_2001-2020_GL
 (pending)
 
--Data analysis of Airbnb Madrid rentings 2021-Abril 2022
-(pending)
 ## Excel
 -Extracting cells colours from multiple files in excel
 (pending)
