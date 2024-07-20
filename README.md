@@ -80,6 +80,42 @@ https://github.com/Arianvba24/streamlit_todo_crud_app
 -Splitting pdf in multiple pdf files
 (pending)
 
+re
+-Extracting all the dates of a text.ipynb
+(pending)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
