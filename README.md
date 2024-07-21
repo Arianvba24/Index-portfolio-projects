@@ -91,8 +91,6 @@ https://github.com/Arianvba24/streamlit_todo_crud_app
 (pending)
 
 ## SQL
--Deleting rows.ipynb 
-(pending)
 
 -Extracting data from the database
 (pending)
@@ -101,16 +99,16 @@ https://github.com/Arianvba24/streamlit_todo_crud_app
 (pending)
 
 ## Web scrapping
--DIA
+-Extracting products data from DIA web page
 (pending)
 
--Walmart
+-Extracting products data from Walmart web page
 (pending)
 
--Adidas
+-Extracting shoes data from Adidas web page
 (pending)
 
--Veritas
+-Extracting products data from Veritas web page
 (pending)
 
 # Excel
