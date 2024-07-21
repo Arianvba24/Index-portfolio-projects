@@ -118,6 +118,9 @@ https://github.com/Arianvba24/streamlit_todo_crud_app
 ## Outlook(and add-in)
 -Highlight words regarding whether or not they are in excel file
 (pending)
+
+-Sending multiple excel files data
+(pending)
 ## Dashboard
 -Dashboard from multiservices company
 (pending)
@@ -127,8 +130,7 @@ https://github.com/Arianvba24/streamlit_todo_crud_app
 -Replacing words by others in multiple files
 (pending)
 
--Sending multiple excel files data
-(pending)
+
 # Power BI
 -Domestic violence deaths of Colombia
 (pending)
