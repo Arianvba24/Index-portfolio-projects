@@ -111,7 +111,7 @@ https://github.com/Arianvba24/streamlit_todo_crud_app
 -Extracting products data from Veritas web page
 (pending)
 
-# Excel
+# VBA Excel, Outlook and Word
 ## Web scrapping
 -Software + web scrapping real state marketplace
 (pending)
