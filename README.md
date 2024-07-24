@@ -36,7 +36,7 @@ https://github.com/Arianvba24/Extracting-cells-colours-from-multiple-files
 
 ## Monitoring and operative system manipulation
 -Deleting ONLY the files that are no longer available for the company
-(pending)
+https://github.com/Arianvba24/Deleting-ONLY-the-files-that-are-no-longer-available-for-the-company
 
 -Filtering and extracting file names from folders
 https://github.com/Arianvba24/Filtering-and-extracting-file-names-from-folders
