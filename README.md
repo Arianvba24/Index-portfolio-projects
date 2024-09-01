@@ -19,7 +19,7 @@ https://github.com/Arianvba24/Dashboard-deaths-Colombia
 https://github.com/Arianvba24/streamlit_todo_crud_app
 
 -Web scrapping Store Web Application
-https://github.com/Arianvba24/Web-Scrapping-Parfoi-Store/blob/main/README.md
+https://github.com/Arianvba24/Web-Scrapping-Parfoi-Store
 ## Data analysis
 -Data analysis of Airbnb Madrid rentings 2021-Abril 2022
 https://github.com/Arianvba24/Data-analysis-of-Airbnb-Madrid-rentings-2021-Abril-2022
