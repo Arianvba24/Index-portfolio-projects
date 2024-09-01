@@ -142,6 +142,9 @@ https://github.com/Arianvba24/Traffic-accidents-in-USA-New-York-from-2012-to-202
 -Amount of crimes in USA(Chicago) from 2001 to beginning of 2024
 https://github.com/Arianvba24/Amount-of-crimes-in-USA-Chicago-from-2001-to-beginning-of-2024
 
+-Clothing Store
+https://github.com/Arianvba24/Dashboard-clothing-store
+
 
 
 
