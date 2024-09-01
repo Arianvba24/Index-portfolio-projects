@@ -17,6 +17,9 @@ https://github.com/Arianvba24/Dashboard-deaths-Colombia
 
 -To-do tasks web application
 https://github.com/Arianvba24/streamlit_todo_crud_app
+
+-Web scrapping Store Web Application
+https://github.com/Arianvba24/Web-Scrapping-Parfoi-Store/blob/main/README.md
 ## Data analysis
 -Data analysis of Airbnb Madrid rentings 2021-Abril 2022
 https://github.com/Arianvba24/Data-analysis-of-Airbnb-Madrid-rentings-2021-Abril-2022
@@ -30,6 +33,8 @@ https://github.com/Arianvba24/Data-analysis-of-palestinian-conflict
 -Data analysis of Real_Estate_Sales_2001-2020_GL
 https://github.com/Arianvba24/Data-analysis-of-real-state-selling-2001-2020
 
+-Analysing 55 million rows
+https://github.com/Arianvba24/Web-Scrapping-Parfoi-Store/blob/main/README.md
 ## Excel
 -Extracting cells colours from multiple files in excel
 https://github.com/Arianvba24/Extracting-cells-colours-from-multiple-files
