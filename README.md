@@ -34,7 +34,7 @@ https://github.com/Arianvba24/Data-analysis-of-palestinian-conflict
 https://github.com/Arianvba24/Data-analysis-of-real-state-selling-2001-2020
 
 -Analysing 55 million rows
-https://github.com/Arianvba24/Web-Scrapping-Parfoi-Store
+https://github.com/Arianvba24/Analysing-55-million-rows
 ## Excel
 -Extracting cells colours from multiple files in excel
 https://github.com/Arianvba24/Extracting-cells-colours-from-multiple-files
