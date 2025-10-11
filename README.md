@@ -25,7 +25,7 @@ https://github.com/Arianvba24/Web-Scrapping-Parfoi-Store
 https://github.com/Arianvba24/Async_psychologists_web_scrapping
 
 -Budget generator
-https://github.com/Arianvba24/budget-generator
+https://github.com/Arianvba24/budget-generator/tree/master
 
 ## Data analysis
 -Data analysis of Airbnb Madrid rentings 2021-Abril 2022
@@ -132,7 +132,7 @@ https://github.com/Arianvba24/ecommerce-api
 
 ## Telegram bot development
 -Creating payment and admin bot
-https://github.com/Arianvba24/telegram-bot-group
+https://github.com/Arianvba24/telegram-bot-group/tree/master
 
 # VBA Excel, Outlook and Word
 ## Web scrapping
