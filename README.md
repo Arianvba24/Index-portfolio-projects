@@ -24,6 +24,9 @@ https://github.com/Arianvba24/Web-Scrapping-Parfoi-Store
 -Async multiple web scrapping + algorithms implementation
 https://github.com/Arianvba24/Async_psychologists_web_scrapping
 
+-Budget generator
+https://github.com/Arianvba24/budget-generator
+
 ## Data analysis
 -Data analysis of Airbnb Madrid rentings 2021-Abril 2022
 https://github.com/Arianvba24/Data-analysis-of-Airbnb-Madrid-rentings-2021-Abril-2022
@@ -119,6 +122,17 @@ https://github.com/Arianvba24/Extracting-shoes-data-from-Adidas-web-page
 
 -Extracting products data from Veritas organic supermarket web page
 https://github.com/Arianvba24/Extracting-products-data-from-Veritas-web-page
+
+-Fetching data from Trip Advisor
+https://github.com/Arianvba24/tripadvisor-reviews
+
+## API development
+-Creating an API for an ecommerce web site
+https://github.com/Arianvba24/ecommerce-api
+
+## Telegram bot development
+-Creating payment and admin bot
+https://github.com/Arianvba24/telegram-bot-group
 
 # VBA Excel, Outlook and Word
 ## Web scrapping
